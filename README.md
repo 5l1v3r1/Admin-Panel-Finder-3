@@ -8,7 +8,7 @@
 
 # About
 
-simple python code that try to find admin panel on the server
+simple python script that try to find admin panel on the server
 
 # Screenshot
 
