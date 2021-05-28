@@ -1,3 +1,4 @@
+# Admin Panel Finder
 <p align="center">
   <b> Follow on Social Media Platforms </b>
 </p>
@@ -6,7 +7,6 @@
 </p>
 # About
 
-# Admin-Panel-Finder
 simple python script that try to find admin panel on the server
 
 # Screenshot
